@@ -20,7 +20,7 @@ This is a personal portfolio website built using the MERN stack. It showcases my
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/My-Portfolio.git
+   git clone https://github.com/vi1ka2/My-Portfolio.git
    cd My-Portfolio
    ```
 
