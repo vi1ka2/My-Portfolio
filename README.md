@@ -47,5 +47,5 @@ For any inquiries, feel free to reach out via the contact form or email me direc
 🔗 **Live Demo**: https://my-portfolio-n8ma.onrender.com/
 
 ---
-Made with ❤️ by **Vikas Singh Kushwaha**
+
 
