@@ -1,4 +1,4 @@
-# My Portfolio (MERN Stack)
+#  Portfolio(Assignment) (MERN Stack)
 
 This is a personal portfolio website built using the MERN stack. It showcases my skills, projects, and contact details, along with an integrated email functionality using SendGrid.
 
